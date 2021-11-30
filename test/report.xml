@@ -1,0 +1,12 @@
+<testsuites>
+  <testsuite errors="0" failures="0" tests="5" skipped="0" name="id_me" timestamp="2021-11-29T8:33:08">
+    <properties>
+      <property name="platform" value="vm" />
+    </properties>
+    <testcase classname="image capture" name="image caputure" time="0.026" />
+    <testcase classname="database read" name="database read" time="0.032" />
+    <testcase classname="database write" name="database write" time="0.034" />
+    <testcase classname="face recognition" name="face recogntion" time="0.034" />
+    <testcase classname="text recognition" name="text recogntion" time="0.034" />
+  </testsuite>
+</testsuites>
